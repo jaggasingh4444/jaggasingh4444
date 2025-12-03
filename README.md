@@ -1,6 +1,7 @@
 <h1 align="center">💫 Hi, I'm Jagadish Pandey 👋</h1>
 <p align="center">
-  <strong>Computer Engineer | Fullstack Developer | DevOps Enthusiast</strong>
+  <strong>Computer Engineer </strong><br><br>  
+  <strong>Fullstack Developer | DevOps Enthusiast</strong>
 </p>
 
 <p align="center">

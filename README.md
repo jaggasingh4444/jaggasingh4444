@@ -22,15 +22,16 @@
 ---
 
 ## 💻 About Me
+
 <p align="center">
-I'm a passionate **Fullstack Developer & DevOps Engineer** who loves turning ideas into scalable applications and automating everything possible. 🚀
+I'm a passionate **Cloud Engineer & DevOps Enthusiast** who loves building scalable cloud solutions, deploying applications, and automating infrastructure for better performance and reliability. 🚀
 </p>
 
-- 🌱 Currently learning: **Node.js | Express.js | React.js | MongoDB | REST APIs**  
-- 👯 Open to collaborate on: **Web & Fullstack Projects, Open-source Contributions**  
-- 🤔 Seeking help with: **Exciting projects to enhance backend & frontend skills**  
-- ⚡ Fun fact: **I love tech, and tech loves me back 😄**  
-- 😄 Pronouns: **Jaggu**  
+- 🌱 Currently learning: **AWS | Linux | Docker | CI/CD | Cloud Networking | DevOps Tools**  
+- 👯 Open to collaborate on: **Cloud Projects, DevOps Automation, Web Deployment, and Open-source Contributions**  
+- 🤔 Seeking help with: **Real-world cloud projects to improve deployment, monitoring, and infrastructure skills**  
+- ⚡ Fun fact: **I love the cloud because it makes ideas available everywhere ☁️😄**  
+- 😄 Pronouns: **Jaggu**
 
 ---
 
